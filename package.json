@@ -1,0 +1,45 @@
+{
+  "name": "isifood",
+  "version": "1.0.0",
+  "description": "___        ______     ____ _                 _  ___           / \\ \\      / / ___|   / ___| | ___  _   _  __| |/ _ \\         / _ \\ \\ /\\ / /\\___ \\  | |   | |/ _ \\| | | |/ _` | (_) |       / ___ \\ V  V /  ___) | | |___| | (_) | |_| | (_| |\\__, |      /_/   \\_\\_/\\_/  |____/   \\____|_|\\___/ \\__,_|\\__,_|  /_/   -----------------------------------------------------------------",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notPantera/ISIFood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notPantera/ISIFood/issues"
+  },
+  "homepage": "https://github.com/notPantera/ISIFood#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcrypt": "^4.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-flash": "0.0.2",
+    "express-layout": "^0.1.0",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.4.0",
+    "faker": "^4.1.0",
+    "https": "^1.0.0",
+    "mysql": "^2.18.1",
+    "node-cache": "^5.1.0",
+    "nodemailer": "^6.4.8",
+    "nodemon": "^2.0.3",
+    "open": "^7.0.3",
+    "passport": "^0.4.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8"
+  }
+}
